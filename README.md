@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imancharlie
+- 👋 Hi, I’m @Emmanuel charles
 - 👀 I’m interested in ... coding, public speaking, books 
 - 🌱 I’m currently learning ... software development form plp community 
 - 💞️ I’m looking to collaborate on ... python and c++
